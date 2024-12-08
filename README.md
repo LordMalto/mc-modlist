@@ -11,10 +11,11 @@ WI-Zoom
 Exploration(Mix), Mobs, Fighting & Gear
 ===================================================================
 Ice and Fire
-Naturalist
+Alex Mobs (https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/5698791)
 Travelers Backpack
 Waystones
 Voidtotem
+Blue Skies (https://www.curseforge.com/minecraft/mc-mods/blue-skies/download/5010316)
 
 
 Terrain & Structures
